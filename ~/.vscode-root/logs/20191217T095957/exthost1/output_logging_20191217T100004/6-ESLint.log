@@ -1,0 +1,61 @@
+[Info  - 10:00:04] ESLint server stopped.
+[Info  - 10:00:04] ESLint server running in node v12.4.0
+[Info  - 10:00:05] ESLint server is running.
+[Info  - 10:00:08] ESLint library loaded from: /usr/local/lib/node_modules/eslint/lib/api.js
+(node:25360) UnhandledPromiseRejectionWarning: Error: No ESLint configuration found in /home/mauroslucios/.vscode/extensions/eamodio.gitlens-10.2.0/dist/webviews.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/usr/local/lib/node_modules/eslint/lib/cli-engine/cascading-config-array-factory.js:407:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/usr/local/lib/node_modules/eslint/lib/cli-engine/cascading-config-array-factory.js:249:21)
+    at CLIEngine.getConfigForFile (/usr/local/lib/node_modules/eslint/lib/cli-engine/cli-engine.js:918:14)
+    at /home/mauroslucios/.vscode/extensions/dbaeumer.vscode-eslint-2.0.6/server/out/eslintServer.js:1:34005
+    at ie (/home/mauroslucios/.vscode/extensions/dbaeumer.vscode-eslint-2.0.6/server/out/eslintServer.js:1:42856)
+    at d.then.r.validate (/home/mauroslucios/.vscode/extensions/dbaeumer.vscode-eslint-2.0.6/server/out/eslintServer.js:1:33959)
+    at processTicksAndRejections (internal/process/task_queues.js:89:5)
+(node:25360) UnhandledPromiseRejectionWarning: Error: No ESLint configuration found in /home/mauroslucios/.vscode/extensions/eamodio.gitlens-10.2.0/dist/webviews.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/usr/local/lib/node_modules/eslint/lib/cli-engine/cascading-config-array-factory.js:407:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/usr/local/lib/node_modules/eslint/lib/cli-engine/cascading-config-array-factory.js:249:21)
+    at CLIEngine.getConfigForFile (/usr/local/lib/node_modules/eslint/lib/cli-engine/cli-engine.js:918:14)
+    at /home/mauroslucios/.vscode/extensions/dbaeumer.vscode-eslint-2.0.6/server/out/eslintServer.js:1:34005
+    at ie (/home/mauroslucios/.vscode/extensions/dbaeumer.vscode-eslint-2.0.6/server/out/eslintServer.js:1:42856)
+    at d.then.r.validate (/home/mauroslucios/.vscode/extensions/dbaeumer.vscode-eslint-2.0.6/server/out/eslintServer.js:1:33959)
+    at processTicksAndRejections (internal/process/task_queues.js:89:5)
+(node:25360) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+(node:25360) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+(node:25360) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+(node:25360) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+(node:25360) UnhandledPromiseRejectionWarning: Error: No ESLint configuration found in /home/mauroslucios/.vscode/extensions/eamodio.gitlens-10.2.0/dist/webviews.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/usr/local/lib/node_modules/eslint/lib/cli-engine/cascading-config-array-factory.js:407:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/usr/local/lib/node_modules/eslint/lib/cli-engine/cascading-config-array-factory.js:249:21)
+    at CLIEngine.getConfigForFile (/usr/local/lib/node_modules/eslint/lib/cli-engine/cli-engine.js:918:14)
+    at /home/mauroslucios/.vscode/extensions/dbaeumer.vscode-eslint-2.0.6/server/out/eslintServer.js:1:34005
+    at ie (/home/mauroslucios/.vscode/extensions/dbaeumer.vscode-eslint-2.0.6/server/out/eslintServer.js:1:42856)
+    at d.then.r.validate (/home/mauroslucios/.vscode/extensions/dbaeumer.vscode-eslint-2.0.6/server/out/eslintServer.js:1:33959)
+    at processTicksAndRejections (internal/process/task_queues.js:89:5)
+(node:25360) UnhandledPromiseRejectionWarning: Error: No ESLint configuration found in /home/mauroslucios/.vscode/extensions/eamodio.gitlens-10.2.0/dist/webviews.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/usr/local/lib/node_modules/eslint/lib/cli-engine/cascading-config-array-factory.js:407:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/usr/local/lib/node_modules/eslint/lib/cli-engine/cascading-config-array-factory.js:249:21)
+    at CLIEngine.getConfigForFile (/usr/local/lib/node_modules/eslint/lib/cli-engine/cli-engine.js:918:14)
+    at /home/mauroslucios/.vscode/extensions/dbaeumer.vscode-eslint-2.0.6/server/out/eslintServer.js:1:34005
+    at ie (/home/mauroslucios/.vscode/extensions/dbaeumer.vscode-eslint-2.0.6/server/out/eslintServer.js:1:42856)
+    at d.then.r.validate (/home/mauroslucios/.vscode/extensions/dbaeumer.vscode-eslint-2.0.6/server/out/eslintServer.js:1:33959)
+    at processTicksAndRejections (internal/process/task_queues.js:89:5)
+(node:25360) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 2)
+(node:25360) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 2)
+(node:25360) UnhandledPromiseRejectionWarning: Error: No ESLint configuration found in /home/mauroslucios/.vscode/extensions/eamodio.gitlens-10.2.0/dist/webviews.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/usr/local/lib/node_modules/eslint/lib/cli-engine/cascading-config-array-factory.js:407:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/usr/local/lib/node_modules/eslint/lib/cli-engine/cascading-config-array-factory.js:249:21)
+    at CLIEngine.getConfigForFile (/usr/local/lib/node_modules/eslint/lib/cli-engine/cli-engine.js:918:14)
+    at /home/mauroslucios/.vscode/extensions/dbaeumer.vscode-eslint-2.0.6/server/out/eslintServer.js:1:34005
+    at ie (/home/mauroslucios/.vscode/extensions/dbaeumer.vscode-eslint-2.0.6/server/out/eslintServer.js:1:42856)
+    at d.then.r.validate (/home/mauroslucios/.vscode/extensions/dbaeumer.vscode-eslint-2.0.6/server/out/eslintServer.js:1:33959)
+    at processTicksAndRejections (internal/process/task_queues.js:89:5)
+(node:25360) UnhandledPromiseRejectionWarning: Error: No ESLint configuration found in /home/mauroslucios/.vscode/extensions/eamodio.gitlens-10.2.0/dist/webviews.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/usr/local/lib/node_modules/eslint/lib/cli-engine/cascading-config-array-factory.js:407:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/usr/local/lib/node_modules/eslint/lib/cli-engine/cascading-config-array-factory.js:249:21)
+    at CLIEngine.getConfigForFile (/usr/local/lib/node_modules/eslint/lib/cli-engine/cli-engine.js:918:14)
+    at /home/mauroslucios/.vscode/extensions/dbaeumer.vscode-eslint-2.0.6/server/out/eslintServer.js:1:34005
+    at ie (/home/mauroslucios/.vscode/extensions/dbaeumer.vscode-eslint-2.0.6/server/out/eslintServer.js:1:42856)
+    at d.then.r.validate (/home/mauroslucios/.vscode/extensions/dbaeumer.vscode-eslint-2.0.6/server/out/eslintServer.js:1:33959)
+    at processTicksAndRejections (internal/process/task_queues.js:89:5)
+(node:25360) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 3)
+(node:25360) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 3)
+[Info  - 10:21:48] ESLint server stopped.

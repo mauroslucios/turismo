@@ -1,0 +1,5 @@
+[2019-12-17 09:00:01.521] [sharedprocess] [info] main {"machineId":"97490b86410bf1db31ba0ec120c7abd231258c6c2b3f4c6408dd4e1b5438f2a7","windowId":2}
+[2019-12-17 09:00:02.138] [sharedprocess] [info] Deleted from disk editorconfig.editorconfig /home/mauroslucios/.vscode/extensions/editorconfig.editorconfig-0.14.2
+[2019-12-17 09:00:02.138] [sharedprocess] [info] Deleted from disk dbaeumer.vscode-eslint /home/mauroslucios/.vscode/extensions/dbaeumer.vscode-eslint-1.9.1
+[2019-12-17 09:00:02.140] [sharedprocess] [info] Deleted from disk vscjava.vscode-java-test /home/mauroslucios/.vscode/extensions/vscjava.vscode-java-test-0.21.0
+[2019-12-17 09:00:41.509] [sharedprocess] [info] Starting to clean up unused language packs.
